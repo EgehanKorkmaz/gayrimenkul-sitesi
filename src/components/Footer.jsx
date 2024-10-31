@@ -22,8 +22,8 @@ const Footer = () => {
         <div className="footer-section">
           <h4 className="footer-heading">İletişim</h4>
           <p>
-            Telefon: +90 505 906 8252<br />
-            E-posta: HASAN KORKMAZ E POSTA
+            +90 505 906 8252<br />
+            hasankorkmaz45@hotmail.com
           </p>
         </div>
         <div className="footer-section">
